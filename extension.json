@@ -1,0 +1,13 @@
+{
+    "builtin": "False",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "pySWECO",
+    "description": "Custom toolbar for MEP",
+    "author": "Vitalij Marcukov",
+    "author_profile": "https://github.com/MarcukovV",
+    "url": "https://github.com/MarcukovV/pySWECO.git",
+    "website": "https://www.youtube.com/@revitdviser4769",
+    "image": "",
+    "dependencies": []
+}

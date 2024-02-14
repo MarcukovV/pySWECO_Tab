@@ -1,0 +1,12 @@
+context: doc-project
+
+title: Sheets & Views Info
+
+tooltip: >-
+ *** TOOLTIP ***
+   -> Displays a table of sheets & views count
+     
+ *** VERSION ***
+   V1 (05.02.2024)
+
+author: Vitalij Marcukov

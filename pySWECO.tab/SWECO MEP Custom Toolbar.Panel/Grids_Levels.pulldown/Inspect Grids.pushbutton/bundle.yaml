@@ -1,0 +1,17 @@
+context: doc-project
+
+title: Inspect Grids
+
+tooltip: >-
+ *** TOOLTIP ***
+   Displays a table of:
+     -> Pinned grids count
+     -> Unpinned grids count
+     -> Monitored grids count
+     -> Non-monitored grids count
+     -> Total grids count
+     
+ *** VERSION ***
+   V1 (05.02.2024)
+
+author: Vitalij Marcukov

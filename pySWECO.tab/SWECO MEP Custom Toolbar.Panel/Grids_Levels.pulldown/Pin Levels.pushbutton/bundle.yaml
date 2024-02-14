@@ -1,0 +1,12 @@
+context: doc-project
+
+title: Pin Levels
+
+tooltip: >-
+ *** TOOLTIP ***
+   -> Pins all unpinned levels in a current project 
+   
+ *** VERSION ***
+   V1 (05.02.2024)
+
+author: Vitalij Marcukov

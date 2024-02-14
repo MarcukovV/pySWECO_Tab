@@ -1,0 +1,13 @@
+context: doc-workshared
+
+title: Create Worksets
+
+tooltip: >-
+ *** TOOLTIP ***
+   -> Creates Default Sweco Worksets
+   -> Creates Optional Sweco Worksets
+   
+ *** VERSION ***
+   V1 (05.02.2024)
+
+author: Vitalij Marcukov

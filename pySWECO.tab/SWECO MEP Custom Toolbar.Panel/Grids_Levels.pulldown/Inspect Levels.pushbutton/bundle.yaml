@@ -1,0 +1,17 @@
+context: doc-project
+
+title: Inspect Levels
+
+tooltip: >-
+ *** TOOLTIP ***
+   Displays a table of:
+     -> Pinned levels count
+     -> Unpinned levels count
+     -> Monitored levels count
+     -> Non-monitored levels count
+     -> Total levels count
+     
+ *** VERSION ***
+   V1 (05.02.2024)
+
+author: Vitalij Marcukov

@@ -1,0 +1,13 @@
+context: doc-project
+
+title: Inspect System Calcs
+
+tooltip: >-
+ *** TOOLTIP ***
+   -> Displays a table of duct / pipe system types and 
+      their calculation parameter modes.
+     
+ *** VERSION ***
+   V1(05.02.2024)
+
+author: Vitalij Marcukov

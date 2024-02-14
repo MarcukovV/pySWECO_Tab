@@ -1,0 +1,12 @@
+context: doc-project
+
+highlight: new
+
+title: Set Revision to Sheet(s)
+
+tooltip: >-
+  1. Set revision and approver field to sheet(s)
+  
+  2. Remove revision and approver field from sheet(s)
+
+author: Vitalij Marcukov

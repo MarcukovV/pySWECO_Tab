@@ -1,0 +1,12 @@
+context: doc-project
+
+title: Pin Grids
+
+tooltip: >-
+ *** TOOLTIP ***
+   -> Pins all unpinned grids in a current project 
+   
+ *** VERSION ***
+   V1 (05.02.2024)
+
+author: Vitalij Marcukov
